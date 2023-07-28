@@ -1,4 +1,3 @@
-print("hello pavan")
-for i in range(1,10):
+print("this is pav")
+for i in range(30,40):
     print(i)
-print("this is checkout")
